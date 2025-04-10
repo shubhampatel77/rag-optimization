@@ -1,6 +1,6 @@
 # RAG-Optimization
 
-**Optimizing Retrieval-Augmented Generation with information-heoretic approaches and end-to-end training (under development).**
+**Optimizing Retrieval-Augmented Generation systems with information-theoretic approaches and end-to-end training (under development).**
 
 ## Table of Contents
 - [Overview](#overview)
